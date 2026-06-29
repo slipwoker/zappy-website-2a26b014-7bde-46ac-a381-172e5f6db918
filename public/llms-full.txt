@@ -2,13 +2,13 @@
 
 A barbershop or hair salon business seeking an online appointment booking website, allowing customers to schedule haircut or styling appointments conveniently through the web.
 
-Source: https://oribarber-2a26b014.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הזמן תספורת מנצחת עכשיו — oribarber
 
-URL: https://oribarber-2a26b014.zappy5.app
+URL: https://example.com
 Description: מחפש מספרה קרובה שתשדרג לך את הלוק? ב-oribarber תוכל לקבוע תור בקלות אונליין לתספורת או עיצוב שיער מקצועי. הצוות שלנו מחכה להפוך כל ביקור לחוויה מעולה. קבע פגישה עכשיו!
 
 הזמן תספורת מנצחת עכשיו — oribarber
@@ -600,7 +600,7 @@ Description: מחפש מספרה קרובה שתשדרג לך את הלוק? ב-
 
 ## מדיניות פרטיות
 
-URL: https://oribarber-2a26b014.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -868,7 +868,7 @@ oribarber ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 
 ## הצהרת נגישות
 
-URL: https://oribarber-2a26b014.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1145,7 +1145,7 @@ oribarber מחויבת להנגיש את השירותים לכלל הציבור.
 
 ## תנאי שימוש
 
-URL: https://oribarber-2a26b014.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1441,7 +1441,7 @@ oribarber מספקת Hair Salon דרך האתר. השירותים כפופים �
 
 ## תודה על פנייתך | oribarber
 
-URL: https://oribarber-2a26b014.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: oribarber - תודה על פנייתך | oribarber
 
 תודה על פנייתך | oribarber
